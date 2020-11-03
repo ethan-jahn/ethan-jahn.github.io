@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400");
 
-@font-face{
-	font-family: "Coolvetica";
-	src: url("coolvetica rg.ttf") format("ttf");	
-}
-
 * {
 	font-family: Raleway;
 }
@@ -19,7 +14,6 @@ html, body{
 .main-header{
 	background-image: url("jtree.jpeg");
 	background-size: cover;
-	/*margin: 0;*/
 	margin: 0 auto; 
 	border: 0;
 	padding: 0;
@@ -42,10 +36,17 @@ html, body{
 	font-size: 1.1em;
 	font-weight: lighter;
 	border-bottom: 1px rgba(163, 246, 255, 0.2);
+	margin-top: 75px;
 }
 
 .main-nav li{
 	padding: 0 2%;
+}
+
+.main-nav a{
+	background-color: rgba(23,23,23,0.7) ;
+	border-radius: 0.25em;
+
 }
 
 .nav ul{
@@ -61,16 +62,13 @@ html, body{
 	padding: 0.5em;
 	color: #14e8ff;
 	text-decoration: none;
-	/*text-shadow: rgb(255, 255, 255) 0px 0px 5px, rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 15px, rgb(73, 255, 24) 0px 0px 20px, rgb(73, 255, 24) 0px 0px 30px, rgb(73, 255, 24) 0px 0px 40px, rgb(73, 255, 24) 0px 0px 55px, rgb(73, 255, 24) 0px 0px 75px;*/
 	text-shadow: rgb(0,0,0) 0px 0px 10px;
 }
 
 .nav a:hover {
 	background-color: rgba(20, 232, 255, 0.4);
 	color: rgba(255, 255, 255, 1);
-	/*font-weight: bold;*/
 }
-
 
 .content-section{
 	margin: 1em;
