@@ -19,9 +19,12 @@ html, body{
 .main-header{
 	background-image: url("jtree.jpeg");
 	background-size: cover;
-	margin: 0;
+	/*margin: 0;*/
+	margin: 0 auto; 
 	border: 0;
 	padding: 0;
+	max-width: 1000px;
+	min-height: 400px
 }
 
 .title{
@@ -110,9 +113,13 @@ html, body{
 }
 
 .image-center{
-	float: center;
+	/*float: center;
 	margin: 15px;
-	padding: 0 auto;
+	padding: 0 auto;*/
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 70%;
 }
 
 .buttons{
