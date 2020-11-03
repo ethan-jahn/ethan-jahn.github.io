@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400");
+
+@font-face{
+	font-family: "Coolvetica";
+	src: url("coolvetica rg.ttf") format("ttf");	
+}
+
+* {
+	font-family: Raleway;
+}
+
+html, body{
+	margin: 0;
+	padding: 0;
+	background-color: #171717;
+	color: #ffffff;
+}
+
+.main-header{
+	background-image: url("jtree.jpeg");
+	background-size: cover;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.title{
+	padding: 30px;
+	color: #ffffff;
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: lighter;
+	margin: 0;
+	border: 0;
+}
+
+.main-nav{
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: lighter;
+	border-bottom: 1px rgba(163, 246, 255, 0.2);
+}
+
+.main-nav li{
+	padding: 0 2%;
+}
+
+.nav ul{
+	margin: 0;
+}
+
+.nav li{
+	display: inline;
+}
+
+.nav a{
+	display: inline-block;
+	padding: 0.5em;
+	color: #14e8ff;
+	text-decoration: none;
+	/*text-shadow: rgb(255, 255, 255) 0px 0px 5px, rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 15px, rgb(73, 255, 24) 0px 0px 20px, rgb(73, 255, 24) 0px 0px 30px, rgb(73, 255, 24) 0px 0px 40px, rgb(73, 255, 24) 0px 0px 55px, rgb(73, 255, 24) 0px 0px 75px;*/
+	text-shadow: rgb(0,0,0) 0px 0px 10px;
+}
+
+.nav a:hover {
+	background-color: rgba(20, 232, 255, 0.4);
+	color: rgba(255, 255, 255, 1);
+	/*font-weight: bold;*/
+}
+
+
+.content-section{
+	margin: 1em;
+	margin: 15px;
+}
+
+.content-section li{
+	padding: 1.05em;
+}
+
+.container{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 1.5em;
+}
+
+.section-header{
+	font-weight: normal;
+	text-align: center;
+}
+
+.paragraph{
+	padding-top: 30px;
+}
+
+.paragraph a{
+	color: #14e8ff;
+	text-decoration: none;
+}
+
+.paragraph a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+	background-color: rgba(20, 232, 255,0.6);
+}
+
+.image{
+	float: left;
+	margin: 15px;
+}
+
+.image-center{
+	float: center;
+	margin: 15px;
+	padding: 0 auto;
+}
+
+.buttons{
+	/*padding: 200px;*/
+	padding-top: 100px;
+	margin: 30px;
+	text-align: center;
+}
+
+.buttons button{
+	border-radius: 1.5em;
+	background-color: rgba(163, 246, 255, 0.4);
+	border: 0;
+	margin: 1.5em;
+	padding: 1.1em;
+	color: #ffffff;
+}
+
+.buttons button:hover{
+	background-color: rgba(99, 240, 255,1);
+	color: #000000;
+	/*font-size: 1.1em;*/
+}
+
+.footer{
+	text-align: center;
+	font-size: 0.7em;
+	color: grey;
+	/*background-color: black; */
+}
+
+.video {
+	margin: 0 auto; 
+	width: 600px;
+}
+
+.frame{
+	margin: 3em;
+}
