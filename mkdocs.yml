@@ -1,0 +1,32 @@
+site_name: Ethan Jahn
+
+nav:
+  - Home: index.md
+  - Curriculum Vitae: cv.md
+  - Galaxy Simulations Research: galaxysimulationresearch.md
+  - High Performance Computing: hpc.md
+  - Teaching: teaching.md
+  - Science Communication: scicom.md
+  - Artistic Expression of Original Research: aeor.md
+  - Salon: salon.md
+  - Digital Collage Art: digitalcollageart.md
+  - Generative Code Art: generativecodeart.md
+  - Film Photography: filmphotography.md
+  - Recording Projects: records.md
+  - Live Performances: live.md
+  - Wizardz of Odd Zine: wizardz.md
+  - Digital Garden: digigarden.md
+
+theme: 
+  name: material
+  features:
+    - header.autohide
+  font:
+    text: Space Grotesk
+  favicon: null
+
+# extra:
+#   copyright: "© Ethan Jahn 2024"
+
+extra_css:
+  - assets/stylesheets/extra.css
