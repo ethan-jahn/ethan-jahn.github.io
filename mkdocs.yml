@@ -2,6 +2,7 @@ site_name: Ethan Jahn
 
 nav:
   - Home: index.md
+  - Bio: bio.md
   - Curriculum Vitae: cv.md
   - Galaxy Simulations Research: galaxysimulationresearch.md
   - High Performance Computing: hpc.md
@@ -12,9 +13,8 @@ nav:
   - Digital Collage Art: digitalcollageart.md
   - Generative Code Art: generativecodeart.md
   - Film Photography: filmphotography.md
-  - Recording Projects: records.md
-  - Live Performances: live.md
-  - Wizardz of Odd Zine: wizardz.md
+  - Music: music.md
+  - Wizardz Zine: wizardz.md
   - Digital Garden: digigarden.md
 
 theme: 
@@ -30,3 +30,11 @@ theme:
 
 extra_css:
   - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.html
+
+extra_javascript:
+  - assets/scripts/randombg.js

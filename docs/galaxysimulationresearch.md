@@ -1,4 +1,7 @@
 # Space Simulations Research
+<link rel="stylesheet" href="assets/stylesheets/home.css">
+<script src="assets/scripts/hover.js" defer></script>
+<script src="assets/scripts/randombg.js" defer></script>
 
 In grad school I researched small galaxies using big computers.
 

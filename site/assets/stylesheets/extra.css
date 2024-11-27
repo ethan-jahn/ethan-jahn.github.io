@@ -1,0 +1,79 @@
+:root {
+    --md-primary-fg-color: #00918a;
+    --md-accent-fg-color: #00d9ce;
+}
+
+.md-typeset h1 {
+  font-size: 1.8em;
+}
+
+.md-typeset h2 {
+  font-size: 1.25em;
+}
+
+.md-typeset h3 {
+  font-size: 0.8em;
+}
+
+.md-typeset p {
+  font-size: 13px; 
+  line-height: 1.1;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.md-typeset ul, .md-typeset ol {
+  font-size: 13px;
+  line-height: 1.1;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.md-nav--primary {
+  margin-top: 100px;
+  font-size: 12px;
+}
+
+.md-nav--secondary {
+    display: none;
+}
+
+.md-typeset hr {
+  border: 0;
+  height: 1px;
+  background-color: #404040;
+  margin: 10 0;
+  width: 100%;
+}
+
+.md-grid {
+  max-width: 1200px; 
+  margin-left: 100px;
+/*  margin-top: 100px;*/
+/*  margin-bottom: 100px;*/
+}
+
+
+.md-header-nav__title {
+  display: none;
+}
+
+.md-header {
+  display: none;
+}
+
+.md-footer{
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .md-grid {
+    margin-left: 0;
+    max-width: 100%;
+  }
+}
