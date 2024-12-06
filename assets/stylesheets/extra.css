@@ -3,6 +3,10 @@
     --md-accent-fg-color: #00d9ce;
 }
 
+a {
+  color: black;
+}
+
 .md-typeset h1 {
   font-size: 1.8em;
 }
