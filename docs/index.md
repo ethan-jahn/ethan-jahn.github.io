@@ -1,76 +1,82 @@
-# Ethan Jahn
 <link rel="stylesheet" href="assets/stylesheets/home.css">
 <script src="assets/scripts/hover.js" defer></script>
 
+<div class="randomColorButton" style="padding: 30px">
 
-<!-- *computational astrophysicist | educator | hpc facilitator | musician | artist* -->
+<h1>Ethan Jahn</h1>
 
+<div style="font-size: 10px;">
 welcome to my web site :)
+</div>
 
----
+</div>
 
 
 /// html | div[style='float: left; width: 50%;']
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="bio"><h2> Bio </h2></a>
-</div>
+<a href="bio"><div class="randomColorButton">
+<h2> Bio </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="cv"><h2> CV </h2></a>
-</div>
+<a href="cv"><div class="randomColorButton">
+<h2> CV </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="galaxysimulationresearch"><h2> Galaxy Simulations Research </h2></a>
-</div>
+<a href="galaxysimulationresearch"><div class="randomColorButton">
+<h2> Galaxy Simulations Research </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="hpc"><h2> High Performance Computing </h2></a>
-</div>
+<a href="hpc"><div class="randomColorButton">
+<h2> High Performance Computing </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="teaching"><h2> Teaching </h2></a>
-</div>
+<a href="teaching"><div class="randomColorButton">
+<h2> Teaching </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="scicom"><h2> Science Communication </h2></a>
-</div>
+<a href="scicom"><div class="randomColorButton">
+<h2> Science Communication </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="digigarden"><h2> Digital Garden </h2></a>
-</div>
+<a href="salon"><div class="randomColorButton">
+<h2> Salon </h2>
+</div></a>
+
+<a href="digigarden"><div class="randomColorButton">
+<h2> Digital Garden </h2>
+</div></a>
 
 ///
 
 /// html | div[style='float: right;width: 50%;']
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="salon"><h2> Salon </h2></a>
-</div>
+<a href="digitalcollageart"><div class="randomColorButton">
+<h2> Digital Collage Art </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="digitalcollageart"><h2> Digital Collage Art </h2></a>
-</div>
+<a href="generativecodeart"><div class="randomColorButton">
+<h2> Generative Code Art </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="generativecodeart"><h2> Generative Code Art </h2></a>
-</div>
+<a href="filmphotography"><div class="randomColorButton">
+<h2> Film Photography </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="filmphotography"><h2> Film Photography </h2></a>
-</div>
+<a href="aeor"><div class="randomColorButton">
+<h2> Artistic Expression of Original Research </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="aeor"><h2> Artistic Expression of Original Research </h2></a>
-</div>
+<a href="music"><div class="randomColorButton">
+<h2> Music </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="music"><h2> Music </h2></a>
-</div>
+<a href="spacezine"><div class="randomColorButton">
+<h2> Macrostructure of the Microcosmos </h2>
+</div></a>
 
-<div class="randomColorButton homeButton" style="padding: 20px">
-<a href="wizardz"><h2> Wizard Zine </h2></a>
-</div>
+<a href="wizardz"><div class="randomColorButton">
+<h2> Wizardz of Odd </h2>
+</div></a>
 
 <!-- This website is a place to host my professional and personal projects, especially as the line between the two is becoming increasingly blurred.  -->
 

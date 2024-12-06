@@ -7,11 +7,9 @@ Salon is a philosophy, science, and fiction reading group. We seek material that
 
 ### Larger Works
 
-We have read a select chapter or two from these:
-
-  - *Self-Organized Criticality* - Per Bak
-  - *Meeting the Universe Halfway* - Karen Barad
-  - *Slanted Truths* - Lynn Margulis
+  - *Self-Organized Criticality, Chs. 1-3* - Per Bak
+  - *Meeting the Universe Halfway, Ch. 1* - Karen Barad
+  - *Slanted Truths, various essays* - Lynn Margulis
   - *A Thousand Plateaus, Ch. 1: The Rhizome* - Deleuze & Guattari 
   - *Care of the Soul, Ch. 7: Gifts of Depression* - Thomas Moore
 
@@ -19,6 +17,7 @@ We have read a select chapter or two from these:
 
   - *The Truth of Fact, The Truth of Fiction* - Ted Chiang
   - *Exhalation* - Ted Chiang
+  - *The Merchant and the Alchemist's Gate* - Ted Chiang
   - *The Garden of Forking Paths* - Jorge Borges
   - *Dreaming is a Private Thing* - Isaac Asimov
 

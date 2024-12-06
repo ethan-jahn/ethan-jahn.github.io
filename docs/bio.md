@@ -1,6 +1,6 @@
 # Bio
 
-Hi, I'm Ethan. I'm original from southeastern Pennsylvania, but I lived in Riverside, California from 2016-2023 and currently reside in Tucson, Arizona. I do a number of different things. This is basically an overview of them, and you can visit the pages for more details. 
+Hi, I'm Ethan. I'm originally from southeastern Pennsylvania, but I lived in Riverside, California from 2016-2023 and currently reside in Tucson, Arizona. I do a number of different things. This is basically an overview of them, and you can visit the pages for more details. 
 
 Thanks for dropping by!
 
