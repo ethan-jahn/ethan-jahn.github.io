@@ -50,8 +50,8 @@ welcome to my web site :)
 
 /// html | div[style='float: right;width: 50%;']
 
-<a href="digitalcollageart"><div class="randomColorButton">
-<h2> Digital Collage Art </h2>
+<a href="digitalart"><div class="randomColorButton">
+<h2> Digital Art </h2>
 </div></a>
 
 <a href="generativecodeart"><div class="randomColorButton">
