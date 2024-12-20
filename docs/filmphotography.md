@@ -116,10 +116,6 @@ img {
 
 ![](https://live.staticflickr.com/65535/53829397504_5483ddd7f1_o.jpg)
 
-![](https://live.staticflickr.com/65535/53829307483_3569f3360f_o.jpg)
-
-![](https://live.staticflickr.com/65535/53829397549_b1aec64ca1_o.jpg)
-
 
 
 
@@ -231,6 +227,10 @@ img {
 
 ![](https://live.staticflickr.com/65535/53829398514_f34063566d_o.jpg)
 
-![](https://live.staticflickr.com/65535/53829308413_1296510b7b_o.jpg)
+![](https://live.staticflickr.com/65535/53829307483_3569f3360f_o.jpg)
 
-![](https://live.staticflickr.com/65535/53829067341_99dd4a2ac6_o.jpg)
+![](https://live.staticflickr.com/65535/53829397549_b1aec64ca1_o.jpg)
+
+<!-- ![](https://live.staticflickr.com/65535/53829308413_1296510b7b_o.jpg) -->
+
+<!-- ![](https://live.staticflickr.com/65535/53829067341_99dd4a2ac6_o.jpg) -->

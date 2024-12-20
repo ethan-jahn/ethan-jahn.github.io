@@ -10,7 +10,7 @@
 
 **PhD** -- Physics and Astronomy -- University of California, Riverside -- 2021
 
-**BS** -- Physics -- Minors: Mathematics, Computer Science -- Indiana University of Pennsylvania -- 2016
+**BS** -- Physics -- Minors: Mathematics, Computer Science -- Indiana U. of Pennsylvania -- 2016
 
 ---
 ## Professional Experience
@@ -18,22 +18,24 @@
 ### **Computing Sciences Researcher II** -- *University of Arizona* -- 2023 - pres
 
 - High Performance Computing Facilitator for UA Research Computing
-- Support and training for computational researchers
-- Wrote and organized documentation for the HPC system: [hpcdocs.hpc.arizona.edu](https://hpcdocs.hpc.arizona.edu/)
-- Develop(ing) inter-departmental/disciplinary/institutional initiatives for education,
-outreach, and research
+- User support, documentation, training/workshops
+- Research software installation, configuration, management; system optimization
+<!-- - Support and training for computational researchers -->
+<!-- - Wrote and organized documentation for the HPC system: [hpcdocs.hpc.arizona.edu](https://hpcdocs.hpc.arizona.edu/) -->
+<!-- - Develop(ing) inter-departmental/disciplinary/institutional initiatives for education, -->
+<!-- outreach, and research -->
 
 
 ### **Community College Adjunct Faculty** –- *RCC; MSJC; MtSAC; CHC* -- 2021 - 2023
 
 - 1st – 3st semester calculus-based physics courses with labs
-- Developed all lectures and exam materials, plus many experiments
-- Inquiry-based lecture style with discussion and active learning exercises 
-- Provided informal mentorship and professional development, including letters of recommendation
+- Developed all lectures and exam materials, some experiments
+- Inquiry-based lecture style with discussion and active learning 
+- Informal mentorship, professional development, letters of recommendation
 
 ### **Educator** – *Innovative Learning Technology Initiative – UC Riverside* -- 2020
 
-- Wrote, filmed & edited educational videos on physics topics
+- Wrote, filmed, edited educational videos on physics topics
 
 
 ### **Graduate Student Researcher** – *UC Riverside* - 2016-2021
@@ -43,11 +45,11 @@ outreach, and research
 
 ### **Graduate Teaching Assistant** – *UC Riverside* - 2016-2021
 
-- Discussion section TA for lower through upper division physics and astronomy courses
+- Discussion section TA for lower & upper division physics/astronomy courses
 
 ### **Science Camp Instructor** – *Great Valley Nature Center* - 2016
 
-- Ran science camps for 100+ children ages 5-12
+- Daytime summer science camps for children ages 5-12
 
 ### **Undergraduate Researcher**
 
@@ -69,12 +71,10 @@ outreach, and research
 ### **High Performance Computing Workshop Series** - *University of Arizona* - 2024-pres
 
 - Restructured and expanded HPC training services
-- Serve as principal programming manager
 
 ### **Research Bazaar Arizona** - *(ResBaz) - University of Arizona* - 2024-pres
 
-- Data science conference
-- Organizing committee
+- Data science conference; organizing committee
 
 ### **Deep Learning for Astrophysics Hackathon** – *University of Arizona* - 2024-pres
 
@@ -91,8 +91,7 @@ outreach, and research
 
 ### **Vice Chancellor’s DEI Climate Committee** – *UC Riverside* - 2020-2021
 
-- Discussed & strategized to address DEI issues facing the university
-- Provided perspective as a graduate student to committee of mostly faculty and admin
+- Provided graduate student perspective to committee of mostly faculty and admin
 
 ### **Inclusion, Diversity, and Equity Alliance (IDEA)** – *American Physical Society* - 2020-2021
 
@@ -100,25 +99,25 @@ outreach, and research
 
 ### **Science and Society Book Club** – *UC Riverside* - 2020-2021
 
-- Graduate student book club aimed at understanding the role of society in science - Founder, organizer
+- Graduate student book club - Founder, organizer
 
 ### **Community Building Equity Workshops** – *UCR Dept. of Phys & Astro* - 2020-2021
 
-- Workshops and town hall-style discussions to build community and investment in student well-being
+- Workshops and town hall discussions to build community and investment in student well-being
 - Co-founder, organizer, facilitator
 
 ### **Inclusivity Seminar Series** – *UC Riverside* - 2019-2021
 
-- Seminars from experts around campus relevant to social sciences and understanding the principles and practices of DEI work
+- Seminars from experts in social sciences, etc.
 - Founder, organizer
 
 ### **Making Excellence Inclusive** – *UC Riverside* - 2019
 
 - Graduate student certificate course covering literature from humanities and social sciences designed to emphasize commitment to diversity and inclusion 
 
-### **Physics Organization for Women and the Under-Represented (POWUR)** – *UC Riverside* - 2018-2021
+### **Physics Organization for Women and the Under-Represented (POWUR)** – *UCR* - 2018-2021
 
-- Student organization advocating initiatives to increase wellbeing of under-represented groups in physics and astronomy
+- Graduate student advocacy organization 
 - President, Vice President, Member
 
 ### **Community Outreach Volunteer** – *Dept. of Physics and Astronomy* - 2017-2021
