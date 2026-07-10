@@ -2,7 +2,7 @@ site_name: Ethan Jahn
 
 nav:
   - Home: index.md
-  - Bio: bio.md
+  - About: about.md
   - Curriculum Vitae: cv.md
   - Galaxy Simulations Research: galaxysimulationresearch.md
   - High Performance Computing: hpc.md

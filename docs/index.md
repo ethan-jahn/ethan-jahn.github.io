@@ -14,8 +14,8 @@ welcome to my web site :)
 
 /// html | div[style='float: left; width: 50%;']
 
-<a href="bio"><div class="randomColorButton">
-<h2> Bio </h2>
+<a href="about"><div class="randomColorButton">
+<h2> About </h2>
 </div></a>
 
 <a href="cv"><div class="randomColorButton">
