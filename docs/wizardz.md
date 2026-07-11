@@ -1,1 +1,0 @@
-<iframe class="pdf" src="/assets/pdfs/wizard-zine-compressed.pdf" width="800" height="900"> </iframe>

@@ -1,1 +1,0 @@
-<iframe class="pdf" src="/assets/pdfs/space-zine-final.pdf" width="800" height="900"> </iframe>
